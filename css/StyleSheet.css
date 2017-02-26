@@ -1,0 +1,153 @@
+﻿body {
+}
+
+.pariksh_Logo 
+{
+    width:20px;
+    padding-top:5px;
+}
+
+.pariksha_slider 
+{
+    color:#6cc;font-size:20pt;
+}
+
+.hp-each-course
+ {
+   
+ }
+ 
+ .hp-each-course .content 
+ {
+    position: relative;
+    text-align:center;  
+    height: 170px;
+    width: 100%;
+    border-radius: 4px;
+    overflow: hidden;
+    display: block;
+    text-decoration: none;
+    background: url(../Parikshacrack_Image/course-bg-1.jpg) center no-repeat;
+    background-size: cover;
+    -webkit-transition: all .5s cubic-bezier(.165,.84,.44,1);
+    -o-transition: all .5s cubic-bezier(.165,.84,.44,1);
+    transition: all .5s cubic-bezier(.165,.84,.44,1);
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.2);
+    box-shadow: 0 1px 1px rgba(0,0,0,.2);
+  }
+
+.hp-each-course .content .inner 
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 91%;   
+    margin-top:30px; 
+    color: #fff;
+    z-index: 40;
+}
+
+.hp-each-course .content .inner h5 {
+    margin: 6px 0;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.hp-each-course .content .inner i 
+{
+  margin-left:20px;
+  margin-bottom:10px;
+}
+.online1 
+{
+    color: #f66;
+}
+
+
+/*******************************/
+.footer_bottom
+{   
+    background: #2b172f;
+    line-height: 1.2;
+    outline: none;
+    min-height:30px
+}
+.footer_max 
+{width:100%;
+ padding:10px;
+ margin:0px auto;
+}
+
+.copyright_txt 
+{
+    color: #bbbbbb;
+    font-size: 13px;
+    padding: 6px 0px 5px 20px;
+}
+
+.footer_scwrap 
+{
+    padding-right: 10px;
+    text-align: right;
+    height: 26px;
+   
+}
+
+.footer_sctxt {
+    display: inline-block;
+    line-height: 26px;
+    color: #bbbbbb;
+    font-size: 13px;
+    position: relative;
+    top: -9px;
+}
+
+.footer_scwrap a.ico1 
+{
+    background: url(../Parikshacrack_Image/pariksha-combi.png) no-repeat 0px -432px;
+}
+.footer_scwrap a.ico2 
+{
+    background: url(../Parikshacrack_Image/pariksha-combi.png) no-repeat -26px -432px;
+}
+.footer_scwrap a.ico3 
+{
+    background: url(../Parikshacrack_Image/pariksha-combi.png) no-repeat -52px -432px;
+}
+.footer_scwrap a.ico4 {
+    background: url(../Parikshacrack_Image/pariksha-combi.png) no-repeat -78px -432px;
+}
+
+.footer_scwrap a 
+{
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    margin-right:auto;
+    opacity: 0.5;
+    color: #424242;
+}
+/*******************************/
+ #navcontainer ul,#navcontainer1 ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: left;
+}
+
+#navcontainer ul li,#navcontainer1 ul li{ display: inline; }
+
+#navcontainer ul li a,#navcontainer1 ul li a
+{
+text-decoration: none;
+padding: .2em 1em;
+color: #fff;
+background-color: #036;
+}
+
+#navcontainer ul li a:hover,#navcontainer1 ul li a:hover
+{
+color: #fff;
+background-color: #369;
+}
+/*******************************/
